@@ -1,0 +1,23 @@
+smart-study-scheduler/
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── model/
+│   │   └── simple_scheduler.py
+│   └── tests/
+│       └── test_api.py
+├── frontend/
+│   ├── package.json
+│   ├── src/
+│   │   ├── App.jsx
+│   │   └── components/
+│   └── public/
+├── .github/
+│   ├── workflows/
+│   │   └── ci.yml
+│   └── ISSUE_TEMPLATE.md
+├── docs/
+│   └── project_report.pdf   # export for UCL
+├── README.md
+├── LICENSE
+└── .gitignore
